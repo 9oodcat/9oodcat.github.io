@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name: "한지율"
-  avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "눈웃음 대장"
   location: "Republic of Korea"
   #  email: "9oodcat@gmail.com"
