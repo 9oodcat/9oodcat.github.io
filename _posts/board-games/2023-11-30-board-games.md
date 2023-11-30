@@ -9,7 +9,7 @@ last_modified_at: 2023-11-30T00:00:00+09:00
 toc: true
 toc_sticky: true
 ---
-
+https://namu.wiki/w/BoardGameGeek
 ## 스플렌더
 ## 아그리콜라
 ## 푸에르토리코
