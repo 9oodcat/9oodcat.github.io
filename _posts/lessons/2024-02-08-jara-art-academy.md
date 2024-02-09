@@ -23,6 +23,8 @@ https://www.jarada.co.kr/
 
 ## 교육관
 
+![20240208_170036](https://github.com/9oodcat/9oodcat.github.io/assets/6086965/334faf73-6655-4cec-b544-93456efbdfa9)
+
 아이가 1시간 정도의 샘플수업을 진행하는 동안 원장 선생님의 자라다 남아미술연구소의 교육관에 대한 설명과 질의응답 시간을 가졌다.  
 큰 흐름은
 
