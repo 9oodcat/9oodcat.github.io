@@ -31,7 +31,10 @@ _site
 # RubyMine
 .idea
 
-### IntelliJ IDEA ###
+# IntelliJ IDEA
 *.iws
 *.iml
 *.ipr
+
+# vscode
+.vs
