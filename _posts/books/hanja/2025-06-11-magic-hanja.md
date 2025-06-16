@@ -2,8 +2,9 @@
 title: "마법 천자문"
 excerpt: "마법 천자문"
 categories:
-  - 한자
+  - 도서
 tags:
+  - 도서
   - 한자
 last_modified_at: 2025-06-16T00:00:00+09:00
 toc: true
