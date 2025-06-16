@@ -13,13 +13,11 @@ toc_sticky: true
 
 ## 1권 불어라! 바람 풍 風
 
-### 하늘 천 天
+### [하늘 천 天](https://hanja.dict.naver.com/#/entry/ccko/312d80e8f9834abea9238b7636d76c46)
+![image](https://github.com/user-attachments/assets/279c3c75-a675-438e-892b-f3b046f7fae7)
 
-https://hanja.dict.naver.com/#/entry/ccko/312d80e8f9834abea9238b7636d76c46
-
-### 땅 지 地
-
-https://hanja.dict.naver.com/#/entry/ccko/0fc02337cd53487b951507f016f472a7
+### [땅 지 地](https://hanja.dict.naver.com/#/entry/ccko/0fc02337cd53487b951507f016f472a7)
+![image](https://github.com/user-attachments/assets/d54edff4-158a-4282-b689-3283332314a6)
 
 ### 사람 인 人
 
