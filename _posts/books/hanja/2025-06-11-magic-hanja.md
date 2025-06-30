@@ -99,3 +99,12 @@ toc_sticky: true
 ![image](https://github.com/user-attachments/assets/d045bd16-63f8-4e12-bba0-7008dc34affe)
 
 ## 2권 솟아라! 뿔 각 角
+
+### [발 족, 지나칠 주 足](https://hanja.dict.naver.com/#/entry/ccko/2d85c948bae84420861b72173b950e09)
+
+![image](https://github.com/user-attachments/assets/b21b56e0-9c3f-47b6-99e7-f99dade2584e)
+
+### [뿔 각 角](https://hanja.dict.naver.com/#/entry/ccko/f0a2eaf36bff4fe3b6094ba3f88dce2d)
+
+
+
