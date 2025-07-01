@@ -107,5 +107,5 @@ toc_sticky: true
 ### [뿔 각 角](https://hanja.dict.naver.com/#/entry/ccko/f0a2eaf36bff4fe3b6094ba3f88dce2d)
 
 <figure>
-	<img src="/images/books/hanja/2025-06-11-magic-hanja/뿔각.png">
+	<img src="/assets/images/books/hanja/2025-06-11-magic-hanja/뿔각.png">
 </figure>
