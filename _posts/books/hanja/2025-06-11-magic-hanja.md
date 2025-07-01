@@ -100,12 +100,42 @@ toc_sticky: true
 
 ## 2권 솟아라! 뿔 각 角
 
-### [발 족, 지나칠 주 足](https://hanja.dict.naver.com/#/entry/ccko/2d85c948bae84420861b72173b950e09)
+### [발 족 足, 지나칠 주 ](https://hanja.dict.naver.com/#/entry/ccko/2d85c948bae84420861b72173b950e09)
 
 ![image](https://github.com/user-attachments/assets/b21b56e0-9c3f-47b6-99e7-f99dade2584e)
 
 ### [뿔 각 角](https://hanja.dict.naver.com/#/entry/ccko/f0a2eaf36bff4fe3b6094ba3f88dce2d)
 
 <figure>
-	<img src="/assets/images/books/hanja/2025-06-11-magic-hanja/뿔각.png">
+  <img src="/assets/images/books/hanja/2025-06-11-magic-hanja/뿔각.png">
+</figure>
+
+### [마디 촌 寸](https://hanja.dict.naver.com/#/entry/ccko/9ae4e0fbfda5489cbbec2336acd92b3c)
+
+<figure>
+  <img src="/assets/images/books/hanja/2025-06-11-magic-hanja/마디촌.png">
+</figure>
+
+### [대답 답 答](https://hanja.dict.naver.com/#/entry/ccko/b370c33100f544f19c72fea1f32eb2b0)
+
+<figure>
+  <img src="/assets/images/books/hanja/2025-06-11-magic-hanja/대답답.png">
+</figure>
+
+### [안 내 內, 들일 납, 장부 예](https://hanja.dict.naver.com/#/entry/ccko/10f303bb84a74735a21b14ac0279bfeb)
+
+<figure>
+  <img src="/assets/images/books/hanja/2025-06-11-magic-hanja/안내.png">
+</figure>
+
+### [바깥 외 外](https://hanja.dict.naver.com/#/entry/ccko/2cb854535fe749a2b423285de2a1b2fe)
+
+<figure>
+  <img src="/assets/images/books/hanja/2025-06-11-magic-hanja/바깥외.png">
+</figure>
+
+### [살 활 活, 물 콸콸 흐를 괄](https://hanja.dict.naver.com/#/entry/ccko/7a738c06c87c441f9fbbc41b0051aa74)
+
+<figure>
+  <img src="/assets/images/books/hanja/2025-06-11-magic-hanja/살활.png">
 </figure>
