@@ -109,3 +109,15 @@ toc_sticky: true
 <figure>
 	<img src="/assets/images/books/hanja/2025-06-11-magic-hanja/뿔각.png">
 </figure>
+
+### [마디 촌 寸](https://hanja.dict.naver.com/#/entry/ccko/9ae4e0fbfda5489cbbec2336acd92b3c)
+
+<figure>
+  <img src="/assets/images/books/hanja/2025-06-11-magic-hanja/마디촌.png">
+</figure>
+
+### [대답 답 答](https://hanja.dict.naver.com/#/entry/ccko/b370c33100f544f19c72fea1f32eb2b0)
+
+<figure>
+  <img src="/assets/images/books/hanja/2025-06-11-magic-hanja/대답답.png">
+</figure>
